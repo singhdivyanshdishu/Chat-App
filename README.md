@@ -26,8 +26,8 @@ This is a real-time chat application built using Kotlin for the Android platform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
-   cd chat-application
+   git clone https://github.com/singhdivyanshdishu/Chat-App.git
+   cd Chat-App
 
 2. Open the project in Android Studio.
 
